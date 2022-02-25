@@ -29,7 +29,7 @@ The application obtains tokens through a two steps process especially designed f
 
 ![Enter code in browser](./ReadmeFiles/deviceCodeFlow.png)
 
-1. Upon successful authentication, the command-line app will receive the required tokens through a back channel and will use it to perform the web API calls it needs. In this case, the sample displays information about the user who signed-in and their manager.
+2. Upon successful authentication, the command-line app will receive the required tokens through a back channel and will use it to perform the web API calls it needs. In this case, the sample displays information about the user who signed-in and their manager.
 
 ## How to run this sample
 
